@@ -6,23 +6,21 @@
 
 Features: 
 
+* Modular design allows quick swapping of the bottom plate for different diffuser materials
 * Compact and integrated design (EL power supply is housed inside)
-* Wireless dimming when used with infrared remote
-* Easy assembly process and no support material
+* Easy assembly process and no support material required
+
 
 In development:
 
 * Cable management
-* Remote holder
-* Ability to add diffuser sheets
 
 ### BOM (MK3-5V):
 
 | Item        | Quantity Needed |
 | ------------- |-------------| 
-| M3x6 screws      | 8 | $1600 |
-| 13cm EL panel      | 1      |  
+| M3x6 screws      | 8 |
+| 13cm EL panel      | 1  
 | 5V DC-AC power supply | 1 |
-| 5V USB Controller | 1 |
 | Filament (Recommended PETG or ASA) | Aprox. 150-180g |  
 
