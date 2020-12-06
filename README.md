@@ -15,7 +15,7 @@ In development:
 
 * Cable management
 
-### BOM (MK3-5V):
+### Bill of materials (BOM) for MK3-5V variant:
 
 | Item        | Quantity Needed |
 | ------------- |-------------| 
@@ -24,3 +24,10 @@ In development:
 | 5V DC-AC power supply | 1 |
 | Filament (Recommended PETG or ASA) | Aprox. 150-180g |  
 
+### Printed Parts:
+
+| Name        | Quantity |
+| ------------- |-------------| 
+| Bottom Plate      | 1 |
+| Housing      | 1  
+| Lid | 1 |
