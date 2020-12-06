@@ -31,3 +31,10 @@ In development:
 | Bottom Plate      | 1 |
 | Housing      | 1  
 | Lid | 1 |
+
+### Recommended print settings:
+
+* 0.2mm layer height (required)
+* 1mm top and bottom
+* 20% gyroid infill
+* 4-5 perimeters
