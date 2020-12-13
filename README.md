@@ -15,8 +15,7 @@
 
 1. An integrated diffuser will be added (0.25mm frosted plastic) to reduce light output, because the standard brightness is too much for most optical setups. In theory this should improve the quality of the flats as well, since the light will be more evenly spread out.
 2. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
-3. Increase the "clear aperture" (mask) of the bottom plate to allow for more of the EL panel to shine through. The "130mm" panel in reality only has a diameter of 117mm that lights up. The current mask is 110mm but can possibly be increased to 115mm. 
-
+3. The illuminated diameter has been increased from 110mm to 115mm. 
 # Details
 
 Features: 
