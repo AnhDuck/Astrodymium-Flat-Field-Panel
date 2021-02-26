@@ -10,12 +10,17 @@
 2. Significantly cleaner design as a result of relocating half the screws to the bottom of the panel
 3. Increased diameter from 150mm to 160mm for better compatibility with more telescope dew shields
 4. Added thicker walls and a wider central post which makes the panel have no flex
+5. An integrated diffuser will be added (0.25mm frosted plastic) to reduce light output, because the standard brightness is too much for most optical setups. In theory this should improve the quality of the flats as well, since the light will be more evenly spread out.
+6. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
+7. The illuminated diameter has been increased from 110mm to 115mm. 
 
-### Future changes for MK3.X (name for update is still pending)
+### MK3 -> MK4
 
-1. An integrated diffuser will be added (0.25mm frosted plastic) to reduce light output, because the standard brightness is too much for most optical setups. In theory this should improve the quality of the flats as well, since the light will be more evenly spread out.
-2. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
-3. The illuminated diameter has been increased from 110mm to 115mm. 
+1. The design has been completely changed to a much slimmer format that many other commercial flat field panels use.
+2. This new design significantly reduces the amount of material used - by over 50%. 
+3. Bottom plate has been split into two parts, these two parts will make the assembly of the diffuser material + EL panel significantly easier.
+4. Distance between diffuser and EL panel is now 1mm. This should make the field even more uniform and give better results.
+
 # Details
 
 Features: 
