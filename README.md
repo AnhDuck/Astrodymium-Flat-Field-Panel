@@ -17,12 +17,12 @@
 ### MK3 -> MK4
 
 1. The design has been completely changed to a much slimmer format that many other commercial flat field panels use.
-2. This new design significantly reduces the amount of material used - by over 50%. 
+2. This new design significantly reduces the amount of material used - by over 50%.
 3. Bottom plate has been split into two parts, these two parts will make the assembly of the diffuser material + EL panel significantly easier.
 4. Distance between diffuser and EL panel is now 1mm apart, instead of being right beside each other. This should make the field even more uniform and give better results.
 5. The lid now has a hinge that works by using a 1.75mm piece of filament - this makes assembly and maintinance easier since only 1 screw needs to be used to hold the lid in place.
 6. An opening in the bottom plate allows the EL panel's position to be independently adjusted in relation to the diffuser material, making alignment much easier.
-7. BOM now specifies M3X6 screws that have a thin cap (1mm), these thin screws give a lot more flexibility and reduces the thickness of the FFP.  
+7. BOM will specify M3X6 screws that have a thin cap (1mm), these thin screws give a lot more flexibility and reduces the thickness of the FFP.  
 
 # Details
 
