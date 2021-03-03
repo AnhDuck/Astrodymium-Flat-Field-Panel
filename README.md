@@ -19,7 +19,7 @@
 1. The design has been completely changed to a much slimmer format that many other commercial flat field panels use.
 2. This new design significantly reduces the amount of material used - by over 45%.
 3. Bottom plate has been split into two parts (P1/P2), these two parts will make the assembly of the diffuser material + EL panel significantly easier.
-4. These two parts also prevent the EL panel from shining through the plastic **(need to confirm if this is true).**
+4. These two parts also prevent the EL panel from shining through cracks in the plastic **(need to confirm if this is true).**
 5. Distance between diffuser and EL panel is now 1mm apart, instead of being right beside each other. This should make the field even more uniform and give better results.
 6. The lid is only held in by two screws, which reduces the time needed to do any maintenance.
 7. An opening in the bottom plate allows the EL panel's position to be independently adjusted in relation to the diffuser material, making alignment much easier.
@@ -41,9 +41,9 @@ Features:
 | M3x6 screws (1mm thin cap)      | 8 |
 | 13cm EL panel      | 1  
 | 5V DC-AC inverter power supply | 1 |
-| Filament* | Aprox. 150-180g |  
+| Filament* | Aprox. 110g |  
 
-The FFP can be printed in any rigid thermoplastic, but PETG is recommended due to its heat resistance and high printability. PLA may deform depending on your climate.
+* The FFP can be printed in any rigid thermoplastic, but PETG is recommended due to its heat resistance and high printability. PLA may deform under the sun depending on your climate.
 
 ### Printed Parts:
 
