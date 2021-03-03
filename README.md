@@ -37,7 +37,7 @@ Features:
 
 | Item        | Quantity Needed |
 | ------------- |-------------| 
-| M3x6 screws      | 8 |
+| M3x6 screws (1mm thin cap)      | 8 |
 | 13cm EL panel      | 1  
 | 5V DC-AC inverter power supply | 1 |
 | Filament (Recommended PETG) | Aprox. 150-180g |  
@@ -46,14 +46,15 @@ Features:
 
 | Name        | Quantity |
 | ------------- |-------------| 
-| Bottom Plate      | 1 |
+| Bottom Plate P1      | 1 |
+| Bottom Plate P2      | 1 |
 | Housing      | 1  
 | Lid | 1 |
 
 ### Recommended print settings:
 
 * 0.2mm layer height (required)
-* 0.48mm line/extrusion width - first and top layer should use 0.40 or 0.42mm width for a better finish.
+* 0.48mm line/extrusion width - first and top layer should use 0.40/0.42mm width for a better finish.
 * 1mm top and bottom
 * 20% gyroid infill
 * 4-5 perimeters
