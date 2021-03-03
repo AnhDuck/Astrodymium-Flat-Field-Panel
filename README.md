@@ -1,6 +1,6 @@
 # Astrodymium Flat Field Panel
 
-![](https://i.imgur.com/Nt25h6x.png)
+![](https://i.imgur.com/LtVGSFV.png)
 
 # Changelogs: 
 
