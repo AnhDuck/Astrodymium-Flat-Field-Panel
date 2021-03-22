@@ -16,14 +16,15 @@
 
 ### MK3 -> MK4
 
-1. The design has been completely changed to a much slimmer format that many other commercial flat field panels use.
-2. This new design significantly reduces the amount of material used - by over 45%.
-3. Bottom plate has been split into two parts (P1/P2), these two parts will make the assembly of the diffuser material + EL panel significantly easier.
-4. These two parts also prevent the EL panel from shining through cracks in the plastic **(need to confirm if this is true).**
-5. Distance between diffuser and EL panel is now 1mm apart, instead of being right beside each other. This should make the field even more uniform and give better results.
-6. The lid is only held in by two screws, which reduces the time needed to do any maintenance.
-7. An opening in the bottom plate allows the EL panel's position to be independently adjusted in relation to the diffuser material, making alignment much easier.
-8. BOM will specify M3X6 screws that have a thin cap (1mm), these thin screws give a lot more flexibility and reduces the thickness of the FFP.  
+1. The overall design has been redone to a slimmer format that many other commercial flat field panels use. This minimizes the amount of required material and saves on weight (over 30%), while still retaining the same rigidity and offering better build quality.
+2. Bottom plate has been split into two parts (P1/P2) - these two parts make assembling the diffuser material + EL panel significantly easier.
+3. Bottom plates are now held in place with 6 screws, this prevents light from shining through cracks in the plates.
+4. Clear aperture has been increased from 115mm to 125mm. 
+5. Distance between diffuser and EL panel is now 2mm apart, instead of being right on top of each other. This makes the field even more uniform than before.
+6. A combination of two new materials will be used for diffusing the light, which should result in less flicker, due to it having a lower opacity. One of the new materials used also has significantly better diffusion properties.
+7. An easy way to add more diffusing material (usually paper) will be implemented. This should allow users to achieve a good exposure length, no matter how fast their setup is, 8. because they can adjust the amount of light the panel lets through.
+9. The lid is now only held in by two screws, which lessens the time needed to do any maintenance.
+10. Low profile M3X6 screws are now used, these thin screws give a lot more flexibility in the design process, look more professional, and reduces the thickness of the FFP.
 
 # Details
 
@@ -43,7 +44,7 @@ Features:
 | 5V DC-AC inverter power supply | 1 |
 | Filament* | Aprox. 115g |  
 
-* PETG is recommended due to its heat resistance and ease of printing. PLA may deform under the sun depending on your climate. For best results using darker filament is recommended to prevent any intrusion of stray light..
+* PETG is recommended due to its heat resistance and ease of printing. PLA may deform under the sun depending on your climate. For best results use dark filament to prevent any intrusion of stray light.
 
 ### Printed Parts:
 
@@ -56,8 +57,8 @@ Features:
 
 ### Recommended print settings:
 
-* 0.2mm layer height (required)
-* 0.48mm line/extrusion width - first and top layer should use 0.40/0.42mm width for a better finish.
+* 0.2mm layer height (this is required for bridging to work as expected)
+* 0.48mm line/extrusion width - first and top layer should use 0.42mm width for a better finish.
 * 1mm top and bottom
-* 20% gyroid infill
+* 20% rectilinear infill
 * 4-5 perimeters
