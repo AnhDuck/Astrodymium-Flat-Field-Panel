@@ -41,9 +41,9 @@ Features:
 | M3x6 screws (1mm thin cap)      | 8 |
 | 13cm EL panel      | 1  
 | 5V DC-AC inverter power supply | 1 |
-| Filament* | Aprox. 110g |  
+| Filament* | Aprox. 115g |  
 
-* The FFP can be printed in any rigid thermoplastic, but PETG is recommended due to its heat resistance and high printability. PLA may deform under the sun depending on your climate.
+* PETG is recommended due to its heat resistance and ease of printing. PLA may deform under the sun depending on your climate. For best results using darker filament is recommended to prevent any intrusion of stray light..
 
 ### Printed Parts:
 
