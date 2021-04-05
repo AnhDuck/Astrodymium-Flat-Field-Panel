@@ -7,8 +7,8 @@
 ### V2 -> V3:
 
 1. Removed recommendation to use PWM style dimmers since they increase flicker/scan lines. This issue is solved by stacking more diffusing material (to increase exposure length) which has been made much easier to do with the newer design
-2. Significantly cleaner design as a result of relocating half the screws to the bottom of the panel
-3. Increased diameter from 150mm to 160mm for better compatibility with more telescope dew shields
+2. Cleaner design as a result of relocating half the screws to the bottom of the panel
+3. Increased outer diameter from 150mm to 160mm for better compatibility with more telescope dew shields
 4. Added thicker walls and a wider central post which makes the panel have no flex
 5. An integrated diffuser will be added (0.25mm frosted plastic) to reduce light output, because the standard brightness is too much for most optical setups. In theory this should improve the quality of the flats as well, since the light will be more evenly spread out.
 6. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
@@ -30,7 +30,8 @@
 1. Version naming scheme changed from "MK" to "V"
 2. The position of screw holes was adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
 3. Position of the printed diffuser was moved on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser. 
-4. Overall thickness of the panel was reduced by 0.6mm (8.8 -> 8.2)
+4. Overall thickness of the panel was reduced by 0. 6mm (8.8 -> 8.2)
+5. Source file was redesigned from the ground up to have a more parametric design. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization has also been cleaned up. 
 
 # Details
 
