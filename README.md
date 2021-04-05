@@ -28,10 +28,11 @@
 
 ### V4.0 -> V4.1
 1. Version naming scheme changed from "MK" to "V"
-2. The position of screw holes was adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
+2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
 3. Position of the printed diffuser was moved on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser. 
-4. Overall thickness of the panel was reduced by 0. 6mm (8.8 -> 8.2)
-5. Source file was redesigned from the ground up to have a more parametric design. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization has also been cleaned up. 
+4. Overall thickness of the panel was reduced by 0.6mm (8.8 -> 8.2)
+5. The EL panel output housing was lengthened all the way, to make assembly easier, and to reduce cable strain.
+6. Source file was redesigned from the ground up to be more parametric. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization (components/assemblies) has also been cleaned up. 
 
 # Details
 
