@@ -26,6 +26,12 @@
 9. The lid is now only held in by two screws, which lessens the time needed to do any maintenance.
 10. Low profile M3X6 screws are now used, these thin screws give a lot more flexibility in the design process, look more professional, and reduces the thickness of the FFP.
 
+### V4.0 -> V4.1
+1. Version naming scheme changed from "MK" to "V"
+2. The position of screw holes was adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
+3. Position of the printed diffuser was moved on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser. 
+4. Overall thickness of the panel was reduced by 0.6mm (8.8 -> 8.2)
+
 # Details
 
 Features: 
