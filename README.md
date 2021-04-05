@@ -4,7 +4,7 @@
 
 # Changelogs: 
 
-### MK2 -> MK3:
+### V2 -> V3:
 
 1. Removed recommendation to use PWM style dimmers since they increase flicker/scan lines. This issue is solved by stacking more diffusing material (to increase exposure length) which has been made much easier to do with the newer design
 2. Significantly cleaner design as a result of relocating half the screws to the bottom of the panel
@@ -14,7 +14,7 @@
 6. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
 7. The illuminated diameter has been increased from 110mm to 115mm. 
 
-### MK3 -> MK4
+### V3 -> V4.0
 
 1. The overall design has been redone to a slimmer format that many other commercial flat field panels use. This minimizes the amount of required material and saves on weight (over 30%), while still retaining the same rigidity and offering better build quality.
 2. Bottom plate has been split into two parts (P1/P2) - these two parts make assembling the diffuser material + EL panel significantly easier.
