@@ -27,6 +27,9 @@
 10. Low profile M3X6 screws are now used, these thin screws give a lot more flexibility in the design process, look more professional, and reduces the thickness of the FFP.
 
 ### V4.0 -> V4.1
+
+Changes that could not be implemented due to the CN deadline were added in this update.
+
 1. Version naming scheme changed from "MK" to "V"
 2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
 3. Position of the printed diffuser was moved on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser. 
