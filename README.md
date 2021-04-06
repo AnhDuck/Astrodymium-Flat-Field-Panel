@@ -16,6 +16,8 @@
 
 ### V3 -> V4.0
 
+Release 4.0 focuses on cutting away needless material by introducing an overall more compact design. A framework for user replacability of diffusing material was also added.
+
 1. The overall design has been redone to a slimmer format that many other commercial flat field panels use. This minimizes the amount of required material and saves on weight (over 30%), while still retaining the same rigidity and offering better build quality.
 2. Bottom plate has been split into two parts (P1/P2) - these two parts make assembling the diffuser material + EL panel significantly easier.
 3. Bottom plates are now held in place with 6 screws, this prevents light from shining through cracks in the plates.
@@ -28,7 +30,7 @@
 
 ### V4.0 -> V4.1
 
-Changes that could not be implemented due to the CN deadline were added in this update.
+Changes that could not be implemented due to the CN deadline were added in this update. 
 
 1. Version naming scheme changed from "MK" to "V"
 2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This smaller diameter makes the panel more compact and reduces material usage.
