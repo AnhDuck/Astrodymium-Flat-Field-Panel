@@ -30,7 +30,7 @@ Release 4.0 focuses on cutting away needless material by introducing an overall 
 
 ### V4.0 -> V4.1
 
-Changes that could not be implemented due to the CN deadline were added in this update. 
+Changes that could not be implemented due to the CN deadline were added in this update, as well as any potential optimizations found when building 4.0.
 
 1. Version naming scheme changed from "MK" to "V"
 2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This smaller diameter makes the panel more compact and reduces material usage.
