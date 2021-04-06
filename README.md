@@ -31,11 +31,11 @@
 Changes that could not be implemented due to the CN deadline were added in this update.
 
 1. Version naming scheme changed from "MK" to "V"
-2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This reduced diameter further lessens the amount of material used.
-3. Position of the printed diffuser was moved on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser. 
-4. Overall thickness of the panel was reduced by 0.6mm (8.8 -> 8.2)
-5. The EL panel output housing was lengthened all the way, to make assembly easier, and to reduce cable strain.
-6. Source file was redesigned from the ground up to be more parametric. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization (components/assemblies) has also been cleaned up. 
+2. The position of screw holes were adjusted to allow for a reduced outer diameter. Down from 160mm to 154mm. This smaller diameter makes the panel more compact and reduces material usage.
+3. Position of the printed diffuser was moved to be on top of the EL panel. This eliminates the fine grain texture and any other aberrations present on the printed diffuser.
+4. Thickness of the panel was reduced by 0.6mm (8.8 -> 8.2)
+5. The EL panel output wire housing was lengthened all the way, to make assembly easier, and to reduce cable strain.
+6. Source CAD file was redesigned from the ground up to be more parametric. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization (components/assemblies) has also been cleaned up. 
 
 # Details
 
