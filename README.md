@@ -1,7 +1,5 @@
 # Astrodymium Flat Field Panel
 
-![](https://i.imgur.com/LtVGSFV.png)
-
 # Changelogs: 
 
 ### V2 -> V3:
