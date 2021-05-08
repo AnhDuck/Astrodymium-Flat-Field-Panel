@@ -2,7 +2,7 @@
 
 # Changelogs: 
 
-### V3:
+### V3.0:
 
 1. Removed recommendation to use PWM style dimmers since they increase flicker/scan lines. This issue is solved by stacking more diffusing material (to increase exposure length) which has been made much easier to do with the newer design
 2. Cleaner design as a result of relocating half the screws to the bottom of the panel
@@ -12,7 +12,7 @@
 6. Size of the housing will be decreased for less filament usage. This will also require a redesign of the cable management clips.
 7. The illuminated diameter has been increased from 110mm to 115mm. 
 
-### V4.0
+### V4.0 
 
 Release 4.0 focuses on cutting away needless material by introducing an overall more compact design. User replacability of diffusing material was also added.
 
@@ -37,11 +37,12 @@ Changes that could not be implemented due to the CN deadline were added in this 
 5. The EL panel output wire housing was lengthened all the way, to make assembly easier, and to reduce cable strain.
 6. Source CAD file was redesigned from the ground up to be more parametric. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization (components/assemblies) has also been cleaned up. 
 
-### V4.2 (Unreleased, currently being designed and tested)
+### V4.2 (Unreleased: currently being designed and tested)
 
 1. Low profile M3x10 screws are now used instead of M3x6. The extra 4mm in thread length allows more flexibility in how the panel can be designed, and increases long term durability due to having more material to self tap into. 
 2. Distance between EL panel and duralar diffuser has been increased by 1mm for a more uniform field.
 3. Certain screwholes were made more durable by increasing depth and amount of material surrounding them.
+4. The wires that connect the power supply and electroluminescent panel have been reduced in length significantly through manual wire splicing. This allows for a smaller electronics enclosure and reduced weight/material usage. 
 
 # Details (Outdated)
 
