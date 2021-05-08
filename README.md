@@ -14,9 +14,9 @@
 
 ### V3 -> V4.0
 
-Release 4.0 focuses on cutting away needless material by introducing an overall more compact design. A framework for user replacability of diffusing material was also added.
+Release 4.0 focuses on cutting away needless material by introducing an overall more compact design. User replacability of diffusing material was also added.
 
-1. The overall design has been redone to a slimmer format that many other commercial flat field panels use. This minimizes the amount of required material and saves on weight (over 30%), while still retaining the same rigidity and offering better build quality.
+1. The overall design has been remade to a slimmer format that many other commercial flat field panels use. This minimizes the amount of required material and saves on weight (over 30%), while still retaining the same rigidity and offering better build quality.
 2. Bottom plate has been split into two parts (P1/P2) - these two parts make assembling the diffuser material + EL panel significantly easier.
 3. Bottom plates are now held in place with 6 screws, this prevents light from shining through cracks in the plates.
 4. Clear aperture has been increased from 115mm to 125mm. 
@@ -37,7 +37,7 @@ Changes that could not be implemented due to the CN deadline were added in this 
 5. The EL panel output wire housing was lengthened all the way, to make assembly easier, and to reduce cable strain.
 6. Source CAD file was redesigned from the ground up to be more parametric. Stuff doesn't blow up when changes are made, and revisions are much easier to make now. Part organization (components/assemblies) has also been cleaned up. 
 
-# Details
+# Details (Outdated)
 
 Features: 
 
