@@ -2,7 +2,7 @@
 
 # Changelogs: 
 
-### V3.0:
+### V3.0
 
 1. Removed recommendation to use PWM style dimmers since they increase flicker/scan lines. This issue is solved by stacking more diffusing material (to increase exposure length) which has been made much easier to do with the newer design
 2. Cleaner design as a result of relocating half the screws to the bottom of the panel
