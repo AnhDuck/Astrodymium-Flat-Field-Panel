@@ -39,7 +39,7 @@ Changes that could not be implemented due to the CN deadline were added in this 
 
 ### V4.2 (Unreleased: currently being designed and tested)
 
-In release 4.2 The 5V version of the panel has been discontinued. Testing from several vendors with the 5V USB inverter has shown that it produces too much heat, which negatively affects the electroluminescent panel and causes a bright spot. All development will be focused on the 12V version. 
+In release 4.2 the 5V version of the panel was discontinued. Testing from several vendors with the 5V USB inverter has shown that it produces too much heat, which negatively affects the electroluminescent panel and causes a bright spot. All development is now focused on the 12V version. 
 
 1. Low profile M3x10 screws are now used instead of M3x6. The extra 4mm in thread length allows more flexibility in how the panel can be designed, and increases long term durability due to having more material to self tap into. 
 2. Distance between EL panel and duralar diffuser has been increased by 1mm for a more uniform field.
