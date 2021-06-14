@@ -43,8 +43,9 @@ In release 4.2 the 5V version of the panel was discontinued. Testing from severa
 
 1. Low profile M3x10 screws are now used instead of M3x6. The extra 4mm in thread length allows more flexibility in how the panel can be designed, and increases long term durability due to having more material to self tap into. 
 2. Distance between EL panel and duralar diffuser has been increased by 1mm for a more uniform field.
-3. Certain screwholes were made more durable by increasing depth and amount of material surrounding them.
-4. The wires that connect the power supply and electroluminescent panel have been reduced in length significantly through manual wire splicing. This allows for a smaller electronics enclosure and reduced weight/material usage. 
+3. Certain screw holes were made more durable by increasing depth and amount of material surrounding them.
+4. Outer diameter increased by 1mm, 154 -> 156.
+5. Thickness increased by 1.2mm, 8.2 -> 9.4.
 
 # Details (Outdated)
 
